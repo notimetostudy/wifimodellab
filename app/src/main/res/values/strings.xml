@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WifiModeLab</string>
+    <string name="wifi_switch">Wi-Fi</string>
+    <string name="wifi_status">Wi-Fi Status</string>
+    <string name="wifi_is_on">Wi-Fi is ON</string>
+    <string name="wifi_is_off">Wi-Fi is OFF</string>
+</resources>
